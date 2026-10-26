@@ -22,7 +22,7 @@ if not defined ESPTOOL (
 if not defined ESPTOOL (
   echo.
   echo  No encuentro esptool. Dos opciones:
-  echo   1. Instala Arduino IDE y el soporte "esp32 by Espressif" ^(ver LEEME.md^)
+  echo   1. Instala Arduino IDE y el soporte "esp32 by Espressif" ^(ver README.md^)
   echo   2. Usa el cargador web desde Chrome o Edge: https://espressif.github.io/esptool-js/
   echo      ^(Connect, direccion 0x0, elige %BIN% y pulsa Program^)
   echo.

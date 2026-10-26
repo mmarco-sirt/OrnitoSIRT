@@ -24,7 +24,7 @@ OrnitoSIRT/
 │   ├── generar_recursos.py         ← regenera recursos.h
 │   └── fuente/                     ← Inter (licencia OFL)
 ├── LICENSE-clawd-mochi-MIT.txt
-└── LEEME.md
+└── README.md
 ```
 
 ## 1. Cargar el firmware
