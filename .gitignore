@@ -1,0 +1,15 @@
+# Compilación de Arduino / arduino-cli
+build/
+*.elf
+*.map
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Sistema
+desktop.ini
+Thumbs.db
+.DS_Store
